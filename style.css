@@ -6,7 +6,6 @@ body{
     font-family: "Inter";
     src: url(assets/fonts/Inter-VariableFont_slnt,wght.ttf);
 }
-
 #container{
     margin: 0px auto;
     width: 384px;
@@ -43,7 +42,6 @@ p{
     margin: 0px auto;
     
 }
-
 li{
     
     width: 304px;
@@ -60,4 +58,6 @@ li:hover{
     background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 8%);
 }   
+
+
 
